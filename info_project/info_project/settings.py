@@ -33,7 +33,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount', #registraion
     'dj_rest_auth.registration', #registraion
     'rest_framework.authtoken', #auth
-    'rest_framework', #auth
+    'rest_framework', #DRF
     'dj_rest_auth', #auth
     # 'rest_framework_simplejwt', #auth - enable JWT token
     # 'versatileimagefield'    
